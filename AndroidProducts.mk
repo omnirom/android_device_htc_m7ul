@@ -16,4 +16,4 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aosp_m7ul.mk \
-    $(LOCAL_DIR)/custom_m7ul.mk
+    $(LOCAL_DIR)/omni_m7ul.mk
