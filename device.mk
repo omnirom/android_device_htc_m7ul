@@ -29,3 +29,7 @@ $(call inherit-product, device/htc/m7-common/m7-common.mk)
 #OmniTorch
  PRODUCT_PACKAGES += \
 	OmniTorch
+
+#OmniSwitch
+ PRODUCT_PACKAGES += \
+	OmniSwitch
