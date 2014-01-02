@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "6b8b61a3_99d0d825",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1000453
+      },
+      "writtenOn": "2014-01-02T04:46:34Z",
+      "side": 1,
+      "message": "Tabbed, instead of standard four spaces. Also, if this is going to be enabled for all m7s (as is likely), shouldn\u0027t this go in m7-common, instead of device? (like my patch to move the OmniTorch there)",
+      "revId": "10dd6f45aa8591c38f3f98511b2398b153e2b3ea",
+      "serverId": "56841c99-7c94-43d4-bf0b-cb4707e66d55",
+      "unresolved": false
+    }
+  ]
+}
